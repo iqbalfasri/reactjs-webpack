@@ -1,8 +1,8 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-import { Header } from './src/Header';
-import { Home } from './src/Home';
+import { Header } from './src/components/Header';
+import { Home } from './src/components/Home';
 
 class App extends React.Component{
   render(){
