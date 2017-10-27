@@ -1,5 +1,6 @@
 import React from 'react';
 import { render } from 'react-dom';
+import { BrowserRouter as Router, Router, Switch } from 'react-router-dom';
 
 import { Header } from './src/components/Header';
 import { Home } from './src/components/Home';
