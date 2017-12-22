@@ -42,7 +42,8 @@ isinya =>
         }
       ]
     }
-  }```
+  }
+```
 
 -- Step 6
 buka file package.json , lalu tambahkan code ini di dalam object script
